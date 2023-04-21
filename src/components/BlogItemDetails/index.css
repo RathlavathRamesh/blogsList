@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.detailImg {
+  height: 50vh;
+}
+.title {
+  text-align: center;
+  font-size: 25px;
+}
+.ItemsCard {
+  display: flex;
+  flex-direction: column;
+}
+.user-desi {
+  color: #d3d3d3;
+  font-size: 20px;
+}
+.cont {
+  font-size: 28px;
+  color: #2f4f4f;
+}

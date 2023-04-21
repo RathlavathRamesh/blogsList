@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.BlogItem {
+  list-style-type: none;
+  height: 50vh;
+  width: 60vw;
+  display: flex;
+  flex-direction: row;
+}
+.image {
+  height: 20vh;
+}
+.avararcard {
+  display: flex;
+}
+.content {
+  margin-left: 2vh;
+}
+.avatar {
+  height: 5vh;
+  margin-right: 1vh;
+  width: 3vw;
+  border-radius: 25px;
+}
